@@ -1,0 +1,7 @@
+{
+  "name": "curso-urbano-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
